@@ -1,3 +1,16 @@
+"""
+Rover ver.0.1.0
+Created By: takelifetime
+
+Requirements:
+Python 3.6.8 or higher
+Pyxel (https://github.com/kitao/pyxel)
+
+Licence:
+All Rights Reserved
+(c) 2020- takelifetime
+"""
+
 import random
 import pyxel
 
